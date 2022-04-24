@@ -1,1 +1,2 @@
 # odin-recipes
+This is the first semi serious project of my odin journey. The task is to create a basic recipe website containing basic html tags, links and pictures. Nothing complicated, more tedious than anything, really. However practice makes perfect so here goes.
